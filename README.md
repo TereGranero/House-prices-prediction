@@ -1,1 +1,1 @@
-You can download the notebook and training, testing files and you will find an explation of the process for my prediction.
+You can download the notebook where you have all the process for my predictions. You need to download algo  train and testing csv files.
